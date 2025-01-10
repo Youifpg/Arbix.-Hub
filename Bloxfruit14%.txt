@@ -4,8 +4,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "SPEED WAVE | Blox Fruits",
-    SubTitle = "Discord | https://discord.gg/dnzRKCCNxP",
+    Title = "ARBIX HUB | Blox Fruits",
+    SubTitle = "Discord | https://discord.gg/VRHYbyj8Dy",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = true,
